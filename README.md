@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arenascdaniel
+- 👀 I’m interested in Open Shading Language
+- 🌱 I’m currently learning it and at the same time I write some shader and texture nodes as exercise and experiment.
